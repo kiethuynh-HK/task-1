@@ -1,0 +1,38 @@
+.detail {
+    display: flex;
+  }
+  
+  .product-image {
+    width: 40%; /* Chiều rộng cho hình ảnh */
+  }
+  
+  .image img {
+    width: 100%; /* Chiều rộng 100% cho ảnh */
+    height: auto; /* Chiều cao tự động */
+  }
+  
+  .detail-info {
+    width: 60%; /* Chiều rộng cho phần thông tin */
+    padding: 20px;
+  }
+  
+  .detail-info h2 {
+    margin-bottom: 10px;
+  }
+  
+  .detail-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .detail-info li {
+    margin-bottom: 5px;
+  }
+  
+  .detail-info button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }

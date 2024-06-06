@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.product{
+    padding:30px;
+    padding-left: 170px;
+}
+.product-item{
+    padding-left: 170px;
+    padding:40px;
+}
